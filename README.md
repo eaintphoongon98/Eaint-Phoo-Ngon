@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @eaintphoongon98
 - 👀 I’m interested in Mathematics and AI.
 - 💞️ Currently working on Singular Layer Physics-Informed Neural Networks (SL-PINNs) to solve stiff reaction-diffusion problems for the smooth domains with holes.
-- 💞️ Recently published my research paper 'Singular Layer Physics-Informed Neural Networks (SL-PINNs) to solve stiff reaction-diffusion problems for smooth closed convex domains.
+- 💞️ Recently published my research paper 'Singular Layer Physics-Informed Neural Networks (SL-PINNs) to solve stiff reaction-diffusion problems for smooth closed convex domains' to the Journal 'Engineering Analysis with Boundary Elements'.
 - 📫 How to reach me ... eaintphoongon@unist.ac.kr.
 
 
