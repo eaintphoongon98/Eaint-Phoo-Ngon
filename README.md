@@ -4,6 +4,9 @@
 - 👀 I’m interested in Mathematics and AI.
 - 💞️ Currently working on Singular Layer Physics-Informed Neural Networks (SL-PINNs) to solve stiff reaction-diffusion problems for the smooth domains with holes.
 - 💞️ Recently published my research paper 'Singular Layer Physics-Informed Neural Networks (SL-PINNs) to solve stiff reaction-diffusion problems for smooth closed convex domains' to the Journal 'Engineering Analysis with Boundary Elements'.
+- Graduate Research Student @Analysis_and_Computational_Lab @UNIST
+- Master Student @UNIST
+- TA in Calculus 1, Calculus 2 and Differential Equations recitation classes @UNIST
 - 📫 How to reach me ... eaintphoongon@unist.ac.kr.
 
 
