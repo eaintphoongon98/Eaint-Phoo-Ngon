@@ -1,10 +1,10 @@
 ### Artificial Intelligence | Education | Entrepreneurship
 
 - 👋 Hi, I’m @eaintphoongon98
-- 👀 I’m interested in AI, Data Science, NLP, AI Ethics,and Data Ethics.
-- 💞️ I’m looking to collaborate on "AI Ethics, HateSpeech" research papers and projects.
-- 📫 How to reach me ... phyothuhtet.ai@gmail.com.
+- 👀 I’m interested in Mathematics and AI.
+- 💞️ Currently working on Singular Layer Physics-Informed Neural Networks to solve stiff reaction-diffusion problems for the smooth domains with holes.
+- 💞️ Recently published my research paper 'Singular Layer Physics-Informed Neural Networks to solve stiff reaction-diffusion problems for smooth closed convex domains.
+- 📫 How to reach me ... eaintphoongon@unist.ac.kr.
 
-Graduation Thesis: Myanmar Hate Speech Detection Reinforced with Neural Networks @ University of Technology Yatanarpon Cyber City
 
 
